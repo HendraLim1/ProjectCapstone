@@ -1,0 +1,250 @@
+[{
+  "_id": {
+    "$oid": "68415c51458348651c9c9022"
+  },
+  "sensorId": "VIC-3000-12345",
+  "capturedAt": {
+    "$date": "2025-06-05T14:03:09.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.9631,
+      -37.8136
+    ]
+  },
+  "speedAvgKmh": 49,
+  "vehicleCount": 22,
+  "laneStatus": [
+    "open",
+    "open",
+    "closed"
+  ],
+  "congestionLvl": "Moderate",
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68415c51458348651c9c9023"
+  },
+  "sensorId": "VIC-3006-81101",
+  "capturedAt": {
+    "$date": "2025-06-05T14:03:15.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.958,
+      -37.825
+    ]
+  },
+  "speedAvgKmh": 37,
+  "vehicleCount": 31,
+  "laneStatus": [
+    "open",
+    "open",
+    "open"
+  ],
+  "congestionLvl": "Heavy",
+  "incidentFlag": true
+},
+{
+  "_id": {
+    "$oid": "68415c51458348651c9c9024"
+  },
+  "sensorId": "VIC-3053-40782",
+  "capturedAt": {
+    "$date": "2025-06-05T14:03:21.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.9675,
+      -37.7985
+    ]
+  },
+  "speedAvgKmh": 54,
+  "vehicleCount": 15,
+  "laneStatus": [
+    "open",
+    "open",
+    "open"
+  ],
+  "congestionLvl": "Low",
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68415c51458348651c9c9025"
+  },
+  "sensorId": "VIC-3121-55677",
+  "capturedAt": {
+    "$date": "2025-06-05T14:03:28.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      145.0152,
+      -37.8244
+    ]
+  },
+  "speedAvgKmh": 42,
+  "vehicleCount": 28,
+  "laneStatus": [
+    "open",
+    "closed",
+    "closed"
+  ],
+  "congestionLvl": "Severe",
+  "incidentFlag": true
+},
+{
+  "_id": {
+    "$oid": "68415c51458348651c9c9026"
+  },
+  "sensorId": "VIC-3182-90014",
+  "capturedAt": {
+    "$date": "2025-06-05T14:03:34.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.981,
+      -37.8675
+    ]
+  },
+  "speedAvgKmh": 46,
+  "vehicleCount": 19,
+  "laneStatus": [
+    "open",
+    "open",
+    "open"
+  ],
+  "congestionLvl": "Moderate",
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68415c51458348651c9c9027"
+  },
+  "sensorId": "VIC-3216-27359",
+  "capturedAt": {
+    "$date": "2025-06-05T14:03:40.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.358,
+      -38.147
+    ]
+  },
+  "speedAvgKmh": 61,
+  "vehicleCount": 11,
+  "laneStatus": [
+    "open",
+    "open",
+    "open"
+  ],
+  "congestionLvl": "Low",
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68415c51458348651c9c9028"
+  },
+  "sensorId": "VIC-3550-64218",
+  "capturedAt": {
+    "$date": "2025-06-05T14:03:46.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.2786,
+      -36.757
+    ]
+  },
+  "speedAvgKmh": 58,
+  "vehicleCount": 14,
+  "laneStatus": [
+    "open",
+    "open",
+    "open"
+  ],
+  "congestionLvl": "Low",
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68415c51458348651c9c9029"
+  },
+  "sensorId": "VIC-3840-31724",
+  "capturedAt": {
+    "$date": "2025-06-05T14:03:52.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      146.54,
+      -38.198
+    ]
+  },
+  "speedAvgKmh": 50,
+  "vehicleCount": 18,
+  "laneStatus": [
+    "open",
+    "open",
+    "open"
+  ],
+  "congestionLvl": "Moderate",
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68415c51458348651c9c902a"
+  },
+  "sensorId": "VIC-3690-55502",
+  "capturedAt": {
+    "$date": "2025-06-05T14:03:59.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      146.9114,
+      -36.1199
+    ]
+  },
+  "speedAvgKmh": 63,
+  "vehicleCount": 9,
+  "laneStatus": [
+    "open",
+    "open",
+    "open"
+  ],
+  "congestionLvl": "Low",
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68415c51458348651c9c902b"
+  },
+  "sensorId": "VIC-3922-77881",
+  "capturedAt": {
+    "$date": "2025-06-05T14:04:05.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      145.2364,
+      -38.4833
+    ]
+  },
+  "speedAvgKmh": 45,
+  "vehicleCount": 12,
+  "laneStatus": [
+    "open",
+    "open",
+    "open"
+  ],
+  "congestionLvl": "Low",
+  "incidentFlag": false
+}]
