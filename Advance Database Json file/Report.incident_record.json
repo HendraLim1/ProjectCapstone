@@ -1,0 +1,480 @@
+[{
+  "_id": {
+    "$oid": "68416491458348651c9c9036"
+  },
+  "eventId": "INC-VIC-3000-20240712-0001",
+  "reportedAt": {
+    "$date": "2024-07-12T05:14:32.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.9644,
+      -37.8153
+    ]
+  },
+  "address": {
+    "street": "120 Collins St",
+    "suburb": "Melbourne",
+    "postcode": "3000",
+    "state": "VIC"
+  },
+  "type": "Fire",
+  "severity": "High",
+  "unitsDispatched": [
+    "MFB-Engine7",
+    "Ambulance-12"
+  ],
+  "statusHistory": [
+    {
+      "ts": {
+        "$date": "2024-07-12T05:14:32.000Z"
+      },
+      "status": "Reported"
+    },
+    {
+      "ts": {
+        "$date": "2024-07-12T05:28:00.000Z"
+      },
+      "status": "OnSite"
+    },
+    {
+      "ts": {
+        "$date": "2024-07-12T06:30:00.000Z"
+      },
+      "status": "Closed"
+    }
+  ],
+  "casualties": 2,
+  "propertyDamageEstimateAUD": 75000,
+  "incidentFlag": true
+},
+{
+  "_id": {
+    "$oid": "68416491458348651c9c9037"
+  },
+  "eventId": "INC-VIC-3006-20240803-0042",
+  "reportedAt": {
+    "$date": "2024-08-03T10:22:11.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.959,
+      -37.824
+    ]
+  },
+  "address": {
+    "street": "89 City Rd",
+    "suburb": "Southbank",
+    "postcode": "3006",
+    "state": "VIC"
+  },
+  "type": "Medical Assistance",
+  "severity": "Medium",
+  "unitsDispatched": [
+    "Ambulance-05"
+  ],
+  "statusHistory": [
+    {
+      "ts": {
+        "$date": "2024-08-03T10:22:11.000Z"
+      },
+      "status": "Reported"
+    },
+    {
+      "ts": {
+        "$date": "2024-08-03T10:30:00.000Z"
+      },
+      "status": "OnSite"
+    },
+    {
+      "ts": {
+        "$date": "2024-08-03T11:05:00.000Z"
+      },
+      "status": "Transported"
+    }
+  ],
+  "casualties": 1,
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68416491458348651c9c9038"
+  },
+  "eventId": "INC-VIC-3053-20240914-0110",
+  "reportedAt": {
+    "$date": "2024-09-14T21:18:55.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.968,
+      -37.798
+    ]
+  },
+  "address": {
+    "street": "510 Lygon St",
+    "suburb": "Carlton",
+    "postcode": "3053",
+    "state": "VIC"
+  },
+  "type": "Assault",
+  "severity": "Medium",
+  "unitsDispatched": [
+    "VicPolice-Unit34"
+  ],
+  "statusHistory": [
+    {
+      "ts": {
+        "$date": "2024-09-14T21:18:55.000Z"
+      },
+      "status": "Reported"
+    },
+    {
+      "ts": {
+        "$date": "2024-09-14T21:26:00.000Z"
+      },
+      "status": "OnSite"
+    },
+    {
+      "ts": {
+        "$date": "2024-09-14T22:05:00.000Z"
+      },
+      "status": "Investigation"
+    }
+  ],
+  "casualties": 1,
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68416491458348651c9c9039"
+  },
+  "eventId": "INC-VIC-3121-20241122-0204",
+  "reportedAt": {
+    "$date": "2024-11-22T04:07:09.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      145.015,
+      -37.8245
+    ]
+  },
+  "address": {
+    "street": "241 Church St",
+    "suburb": "Richmond",
+    "postcode": "3121",
+    "state": "VIC"
+  },
+  "type": "Gas Leak",
+  "severity": "High",
+  "unitsDispatched": [
+    "MFB-Hazmat2",
+    "VicPolice-Unit12"
+  ],
+  "statusHistory": [
+    {
+      "ts": {
+        "$date": "2024-11-22T04:07:09.000Z"
+      },
+      "status": "Reported"
+    },
+    {
+      "ts": {
+        "$date": "2024-11-22T04:20:00.000Z"
+      },
+      "status": "Evacuation"
+    },
+    {
+      "ts": {
+        "$date": "2024-11-22T05:15:00.000Z"
+      },
+      "status": "Controlled"
+    }
+  ],
+  "propertyDamageEstimateAUD": 12000,
+  "incidentFlag": true
+},
+{
+  "_id": {
+    "$oid": "68416491458348651c9c903a"
+  },
+  "eventId": "INC-VIC-3182-20241205-0306",
+  "reportedAt": {
+    "$date": "2024-12-05T16:40:30.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.981,
+      -37.8675
+    ]
+  },
+  "address": {
+    "street": "18 The Esplanade",
+    "suburb": "St Kilda",
+    "postcode": "3182",
+    "state": "VIC"
+  },
+  "type": "Public Disturbance",
+  "severity": "Low",
+  "unitsDispatched": [
+    "VicPolice-Unit21"
+  ],
+  "statusHistory": [
+    {
+      "ts": {
+        "$date": "2024-12-05T16:40:30.000Z"
+      },
+      "status": "Reported"
+    },
+    {
+      "ts": {
+        "$date": "2024-12-05T16:55:00.000Z"
+      },
+      "status": "Dispersed"
+    }
+  ],
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68416491458348651c9c903b"
+  },
+  "eventId": "INC-VIC-3216-20250118-0901",
+  "reportedAt": {
+    "$date": "2025-01-18T11:02:17.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.358,
+      -38.147
+    ]
+  },
+  "address": {
+    "street": "25 Moorabool St",
+    "suburb": "Geelong",
+    "postcode": "3216",
+    "state": "VIC"
+  },
+  "type": "Utility Outage",
+  "severity": "Medium",
+  "unitsDispatched": [
+    "AusNet-TechCrew3"
+  ],
+  "statusHistory": [
+    {
+      "ts": {
+        "$date": "2025-01-18T11:02:17.000Z"
+      },
+      "status": "Reported"
+    },
+    {
+      "ts": {
+        "$date": "2025-01-18T11:40:00.000Z"
+      },
+      "status": "OnSite"
+    },
+    {
+      "ts": {
+        "$date": "2025-01-18T13:10:00.000Z"
+      },
+      "status": "Restored"
+    }
+  ],
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68416491458348651c9c903c"
+  },
+  "eventId": "INC-VIC-3550-20250214-0449",
+  "reportedAt": {
+    "$date": "2025-02-14T03:25:48.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.2786,
+      -36.757
+    ]
+  },
+  "address": {
+    "street": "150 Hargreaves St",
+    "suburb": "Bendigo",
+    "postcode": "3550",
+    "state": "VIC"
+  },
+  "type": "Flood",
+  "severity": "High",
+  "unitsDispatched": [
+    "SES-Boat1",
+    "VicPolice-Unit55"
+  ],
+  "statusHistory": [
+    {
+      "ts": {
+        "$date": "2025-02-14T03:25:48.000Z"
+      },
+      "status": "Reported"
+    },
+    {
+      "ts": {
+        "$date": "2025-02-14T03:40:00.000Z"
+      },
+      "status": "Rescue"
+    },
+    {
+      "ts": {
+        "$date": "2025-02-14T08:00:00.000Z"
+      },
+      "status": "Closed"
+    }
+  ],
+  "incidentFlag": true
+},
+{
+  "_id": {
+    "$oid": "68416491458348651c9c903d"
+  },
+  "eventId": "INC-VIC-3840-20250330-0660",
+  "reportedAt": {
+    "$date": "2025-03-30T09:11:04.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      146.54,
+      -38.198
+    ]
+  },
+  "address": {
+    "street": "85 Commercial Rd",
+    "suburb": "Morwell",
+    "postcode": "3840",
+    "state": "VIC"
+  },
+  "type": "Traffic Collision",
+  "severity": "Medium",
+  "unitsDispatched": [
+    "VicPolice-Unit14",
+    "Ambulance-07"
+  ],
+  "statusHistory": [
+    {
+      "ts": {
+        "$date": "2025-03-30T09:11:04.000Z"
+      },
+      "status": "Reported"
+    },
+    {
+      "ts": {
+        "$date": "2025-03-30T09:16:00.000Z"
+      },
+      "status": "OnSite"
+    },
+    {
+      "ts": {
+        "$date": "2025-03-30T10:05:00.000Z"
+      },
+      "status": "Cleared"
+    }
+  ],
+  "casualties": 1,
+  "incidentFlag": false
+},
+{
+  "_id": {
+    "$oid": "68416491458348651c9c903e"
+  },
+  "eventId": "INC-VIC-3690-20250421-0754",
+  "reportedAt": {
+    "$date": "2025-04-21T14:22:11.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      146.9114,
+      -36.1199
+    ]
+  },
+  "address": {
+    "street": "10 High St",
+    "suburb": "Wodonga",
+    "postcode": "3690",
+    "state": "VIC"
+  },
+  "type": "Rescue",
+  "severity": "High",
+  "unitsDispatched": [
+    "SES-Rope1",
+    "Ambulance-03"
+  ],
+  "statusHistory": [
+    {
+      "ts": {
+        "$date": "2025-04-21T14:22:11.000Z"
+      },
+      "status": "Reported"
+    },
+    {
+      "ts": {
+        "$date": "2025-04-21T14:40:00.000Z"
+      },
+      "status": "OnSite"
+    },
+    {
+      "ts": {
+        "$date": "2025-04-21T15:50:00.000Z"
+      },
+      "status": "Closed"
+    }
+  ],
+  "casualties": 0,
+  "incidentFlag": true
+},
+{
+  "_id": {
+    "$oid": "68416491458348651c9c903f"
+  },
+  "eventId": "INC-VIC-3922-20250530-0881",
+  "reportedAt": {
+    "$date": "2025-05-30T19:08:18.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      145.2364,
+      -38.4833
+    ]
+  },
+  "address": {
+    "street": "4 Chapel St",
+    "suburb": "Cowes",
+    "postcode": "3922",
+    "state": "VIC"
+  },
+  "type": "Theft",
+  "severity": "Low",
+  "unitsDispatched": [
+    "VicPolice-Unit09"
+  ],
+  "statusHistory": [
+    {
+      "ts": {
+        "$date": "2025-05-30T19:08:18.000Z"
+      },
+      "status": "Reported"
+    },
+    {
+      "ts": {
+        "$date": "2025-05-30T19:45:00.000Z"
+      },
+      "status": "OnSite"
+    }
+  ],
+  "incidentFlag": false
+}]
