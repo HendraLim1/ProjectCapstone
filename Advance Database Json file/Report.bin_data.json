@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "68416724458348651c9c9040"
+  },
+  "binId": "BIN-VIC-3000-00001-red",
+  "houseId": "HSE-3000-00001",
+  "capturedAt": {
+    "$date": "2025-06-05T06:30:00.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.9645,
+      -37.8129
+    ]
+  },
+  "binType": "red",
+  "fillPercent": 76,
+  "volumeL": 240
+},
+{
+  "_id": {
+    "$oid": "68416724458348651c9c9041"
+  },
+  "binId": "BIN-VIC-3000-00001-yellow",
+  "houseId": "HSE-3000-00001",
+  "capturedAt": {
+    "$date": "2025-06-05T06:32:00.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.9645,
+      -37.8129
+    ]
+  },
+  "binType": "yellow",
+  "fillPercent": 41,
+  "volumeL": 240
+},
+{
+  "_id": {
+    "$oid": "68416724458348651c9c9042"
+  },
+  "binId": "BIN-VIC-3006-00002-red",
+  "houseId": "HSE-3006-00002",
+  "capturedAt": {
+    "$date": "2025-06-05T06:35:00.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.9588,
+      -37.8242
+    ]
+  },
+  "binType": "red",
+  "fillPercent": 58,
+  "volumeL": 240
+},
+{
+  "_id": {
+    "$oid": "68416724458348651c9c9043"
+  },
+  "binId": "BIN-VIC-3053-00003-green",
+  "houseId": "HSE-3053-00003",
+  "capturedAt": {
+    "$date": "2025-06-05T06:38:00.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.9677,
+      -37.7991
+    ]
+  },
+  "binType": "green",
+  "fillPercent": 33,
+  "volumeL": 120
+},
+{
+  "_id": {
+    "$oid": "68416724458348651c9c9044"
+  },
+  "binId": "BIN-VIC-3121-00004-red",
+  "houseId": "HSE-3121-00004",
+  "capturedAt": {
+    "$date": "2025-06-05T06:40:00.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      145.0159,
+      -37.8248
+    ]
+  },
+  "binType": "red",
+  "fillPercent": 89,
+  "volumeL": 240
+},
+{
+  "_id": {
+    "$oid": "68416724458348651c9c9045"
+  },
+  "binId": "BIN-VIC-3121-00004-yellow",
+  "houseId": "HSE-3121-00004",
+  "capturedAt": {
+    "$date": "2025-06-05T06:42:00.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      145.0159,
+      -37.8248
+    ]
+  },
+  "binType": "yellow",
+  "fillPercent": 47,
+  "volumeL": 240
+},
+{
+  "_id": {
+    "$oid": "68416724458348651c9c9046"
+  },
+  "binId": "BIN-VIC-3121-00004-green",
+  "houseId": "HSE-3121-00004",
+  "capturedAt": {
+    "$date": "2025-06-05T06:44:00.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      145.0159,
+      -37.8248
+    ]
+  },
+  "binType": "green",
+  "fillPercent": 20,
+  "volumeL": 120
+},
+{
+  "_id": {
+    "$oid": "68416724458348651c9c9047"
+  },
+  "binId": "BIN-VIC-3182-00005-yellow",
+  "houseId": "HSE-3182-00005",
+  "capturedAt": {
+    "$date": "2025-06-05T06:47:00.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.9812,
+      -37.868
+    ]
+  },
+  "binType": "yellow",
+  "fillPercent": 53,
+  "volumeL": 240
+},
+{
+  "_id": {
+    "$oid": "68416724458348651c9c9048"
+  },
+  "binId": "BIN-VIC-3216-00006-red",
+  "houseId": "HSE-3216-00006",
+  "capturedAt": {
+    "$date": "2025-06-05T06:50:00.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.3575,
+      -38.1478
+    ]
+  },
+  "binType": "red",
+  "fillPercent": 64,
+  "volumeL": 360
+},
+{
+  "_id": {
+    "$oid": "68416724458348651c9c9049"
+  },
+  "binId": "BIN-VIC-3216-00006-green",
+  "houseId": "HSE-3216-00006",
+  "capturedAt": {
+    "$date": "2025-06-05T06:52:00.000Z"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.3575,
+      -38.1478
+    ]
+  },
+  "binType": "green",
+  "fillPercent": 28,
+  "volumeL": 120
+}]
