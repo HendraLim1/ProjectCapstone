@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "68416394458348651c9c902c"
+  },
+  "meterId": "VIC-3000-00123",
+  "capturedAt": {
+    "$date": "2025-06-05T14:00:00.000Z"
+  },
+  "address": {
+    "street": "120 Collins St",
+    "suburb": "Melbourne",
+    "postcode": "3000",
+    "state": "VIC"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.964,
+      -37.81
+    ]
+  },
+  "zone": "CBD-North",
+  "buildingType": "apartment",
+  "consumptionKwh": 3.7,
+  "voltage": 234,
+  "currentA": 15.8,
+  "readingType": "interval",
+  "ambientTempC": 16.5
+},
+{
+  "_id": {
+    "$oid": "68416394458348651c9c902d"
+  },
+  "meterId": "VIC-3006-81101",
+  "capturedAt": {
+    "$date": "2025-06-05T14:00:00.000Z"
+  },
+  "address": {
+    "street": "89 City Rd",
+    "suburb": "Southbank",
+    "postcode": "3006",
+    "state": "VIC"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.959,
+      -37.824
+    ]
+  },
+  "zone": "Southbank-East",
+  "buildingType": "office",
+  "consumptionKwh": 12.4,
+  "voltage": 232,
+  "currentA": 54.2,
+  "readingType": "interval",
+  "ambientTempC": 17.2
+},
+{
+  "_id": {
+    "$oid": "68416394458348651c9c902e"
+  },
+  "meterId": "VIC-3053-40782",
+  "capturedAt": {
+    "$date": "2025-06-05T14:00:00.000Z"
+  },
+  "address": {
+    "street": "510 Lygon St",
+    "suburb": "Carlton",
+    "postcode": "3053",
+    "state": "VIC"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.968,
+      -37.798
+    ]
+  },
+  "zone": "Inner-North",
+  "buildingType": "house",
+  "consumptionKwh": 2.9,
+  "voltage": 236,
+  "currentA": 12.3,
+  "readingType": "interval",
+  "ambientTempC": 15.9
+},
+{
+  "_id": {
+    "$oid": "68416394458348651c9c902f"
+  },
+  "meterId": "VIC-3121-55677",
+  "capturedAt": {
+    "$date": "2025-06-05T14:00:00.000Z"
+  },
+  "address": {
+    "street": "241 Church St",
+    "suburb": "Richmond",
+    "postcode": "3121",
+    "state": "VIC"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      145.015,
+      -37.8245
+    ]
+  },
+  "zone": "Yarra-East",
+  "buildingType": "warehouse",
+  "consumptionKwh": 25.6,
+  "voltage": 229,
+  "currentA": 111.8,
+  "readingType": "interval",
+  "ambientTempC": 17
+},
+{
+  "_id": {
+    "$oid": "68416394458348651c9c9030"
+  },
+  "meterId": "VIC-3182-90014",
+  "capturedAt": {
+    "$date": "2025-06-05T14:00:00.000Z"
+  },
+  "address": {
+    "street": "18 The Esplanade",
+    "suburb": "St Kilda",
+    "postcode": "3182",
+    "state": "VIC"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.981,
+      -37.8675
+    ]
+  },
+  "zone": "Bay-South",
+  "buildingType": "retail",
+  "consumptionKwh": 5.1,
+  "voltage": 233,
+  "currentA": 22,
+  "readingType": "interval",
+  "ambientTempC": 16.2
+},
+{
+  "_id": {
+    "$oid": "68416394458348651c9c9031"
+  },
+  "meterId": "VIC-3216-27359",
+  "capturedAt": {
+    "$date": "2025-06-05T14:00:00.000Z"
+  },
+  "address": {
+    "street": "25 Moorabool St",
+    "suburb": "Geelong",
+    "postcode": "3216",
+    "state": "VIC"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.358,
+      -38.147
+    ]
+  },
+  "zone": "Surf-Coast",
+  "buildingType": "industrial",
+  "consumptionKwh": 48.2,
+  "voltage": 228,
+  "currentA": 211.5,
+  "readingType": "interval",
+  "ambientTempC": 15
+},
+{
+  "_id": {
+    "$oid": "68416394458348651c9c9032"
+  },
+  "meterId": "VIC-3550-64218",
+  "capturedAt": {
+    "$date": "2025-06-05T14:00:00.000Z"
+  },
+  "address": {
+    "street": "150 Hargreaves St",
+    "suburb": "Bendigo",
+    "postcode": "3550",
+    "state": "VIC"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      144.2786,
+      -36.757
+    ]
+  },
+  "zone": "Goldfields",
+  "buildingType": "school",
+  "consumptionKwh": 9.8,
+  "voltage": 231,
+  "currentA": 42.6,
+  "readingType": "interval",
+  "ambientTempC": 14.3
+},
+{
+  "_id": {
+    "$oid": "68416394458348651c9c9033"
+  },
+  "meterId": "VIC-3840-31724",
+  "capturedAt": {
+    "$date": "2025-06-05T14:00:00.000Z"
+  },
+  "address": {
+    "street": "85 Commercial Rd",
+    "suburb": "Morwell",
+    "postcode": "3840",
+    "state": "VIC"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      146.54,
+      -38.198
+    ]
+  },
+  "zone": "Latrobe",
+  "buildingType": "house",
+  "consumptionKwh": 3.4,
+  "voltage": 235,
+  "currentA": 14.6,
+  "readingType": "interval",
+  "ambientTempC": 12.8
+},
+{
+  "_id": {
+    "$oid": "68416394458348651c9c9034"
+  },
+  "meterId": "VIC-3690-55502",
+  "capturedAt": {
+    "$date": "2025-06-05T14:00:00.000Z"
+  },
+  "address": {
+    "street": "10 High St",
+    "suburb": "Wodonga",
+    "postcode": "3690",
+    "state": "VIC"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      146.9114,
+      -36.1199
+    ]
+  },
+  "zone": "Border-North",
+  "buildingType": "townhouse",
+  "consumptionKwh": 4.2,
+  "voltage": 237,
+  "currentA": 17.7,
+  "readingType": "interval",
+  "ambientTempC": 13.4
+},
+{
+  "_id": {
+    "$oid": "68416394458348651c9c9035"
+  },
+  "meterId": "VIC-3922-77881",
+  "capturedAt": {
+    "$date": "2025-06-05T14:00:00.000Z"
+  },
+  "address": {
+    "street": "4 Chapel St",
+    "suburb": "Cowes",
+    "postcode": "3922",
+    "state": "VIC"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      145.2364,
+      -38.4833
+    ]
+  },
+  "zone": "Bass-Coast",
+  "buildingType": "hotel",
+  "consumptionKwh": 15.6,
+  "voltage": 230,
+  "currentA": 67.8,
+  "readingType": "interval",
+  "ambientTempC": 14.9
+}]
